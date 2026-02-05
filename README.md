@@ -31,7 +31,7 @@ Key variables include:
 
 Exploratory analysis was conducted to understand the temporal and spatial distribution of energy consumption patterns. The following visualization illustrates how charging energy varies with respect to time and day.
 
-![3D Energy Distribution](3D Energy .jpeg)
+![3D Energy Distribution](3D.jpeg)
 
 ---
 
